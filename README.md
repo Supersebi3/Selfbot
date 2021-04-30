@@ -1,8 +1,8 @@
+**Selfbotting is not allowed as per Discord's Terms of Service. This repo is not maintained and not in use by anyone I know of. I will keep it up merely as an example. I do not encourage anyone to use this.**
+
 # My selfbot (no specific name)
 ## Introduction
 This is my discord.py selfbot. It's pretty small and simple, but in my opinion it is pretty useful for everyday Discord chatting. If you have any suggestions, please contact me in Discord (Supersebi3#3525) as I'm not really used to GitHub yet. Thanks!
-
-**NOTE: Apparently selfbots are not allowed anymore, so use this at your own risk.**
 
 ## Setting up
 After getting all the files, install discord.py by entering `pip install discord.py` into a command prompt. Then just fill in the `config.json` file with your Discord user token and your desired prefix for the bot (I recommend `/`). Now run `main.py`, wait for it to log that the bot is ready, and you can start using your new selfbot!
